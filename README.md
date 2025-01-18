@@ -1,1 +1,2 @@
-/* Je suis en train de suivre un tutoriel pour apprendre Github (JP) */
+# A propos de moi
+Je suis Jean-Philippe
